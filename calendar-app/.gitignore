@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pylocal/
+calendar.db
+calendar.db-*
+
+# Node (dev tooling)
+node_modules/
+.smoke/
+
+# misc
+server.log
+.DS_Store
