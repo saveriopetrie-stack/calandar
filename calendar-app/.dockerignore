@@ -1,0 +1,7 @@
+android/
+.venv/
+__pycache__/
+*.pyc
+calendar.db
+calendar.db-*
+.git/
